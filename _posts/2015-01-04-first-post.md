@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+image: /img/rick_roll.png
 ---
 
-This is my first post, how exciting!
+Just kidding.

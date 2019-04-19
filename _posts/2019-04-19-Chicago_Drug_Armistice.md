@@ -17,7 +17,7 @@ The data reveals a steady decline in recorded crime. Nine out of the top ten mos
 
 One area that has seen the steepest decline in recorded offenses is narcotics.
 
-!(/img/Armistice_Chicago.png)
+![](/img/Armistice_Chicago.png)
 
 Drug arrests have declined consistently since 2007. Most notably, marijuana offenses have fallen to record lows.
 

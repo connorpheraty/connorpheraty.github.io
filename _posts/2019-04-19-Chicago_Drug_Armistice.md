@@ -8,7 +8,7 @@ When it comes to narcotics, Chicago is turning the other cheek, but to whom?
 
 Let’s face it — Chicago has a bit of a reputation problem. Long gone are the days of H.H. Holmes and Al Capone and yet controversial names like ‘Chi-Raq’ remind us that Chicago has a reputation where crime and violence reign supreme.
 
-But where does Chicago stand in 2019? Using data obtained from the Chicago Data Portal let’s try to illuminate what is really happening in our city, separating reality from hyperbole — ##fact from fiction##.
+But where does Chicago stand in 2019? Using data obtained from the Chicago Data Portal let’s try to illuminate what is really happening in our city, separating reality from hyperbole — fact from fiction.
 
 ![](/img/top10_crimes.png)
 

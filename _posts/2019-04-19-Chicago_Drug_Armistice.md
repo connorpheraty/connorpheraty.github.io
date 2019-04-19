@@ -33,6 +33,6 @@ All other narcotics offenses have noticeably fallen in the more affluent north s
 
 Does Chicago have a class problem when it comes to enforcing its drug laws?
 
-![](/img/marijiuana_perCapita.png)
+![](/img/marijuana_perCapita.png)
 
 Historically, the answer is an unequivocal yes. However Chicago is an evolving city and although the impact of relaxed drug enforcement is visually most notable in wealthier communities, the gap is quickly closing.

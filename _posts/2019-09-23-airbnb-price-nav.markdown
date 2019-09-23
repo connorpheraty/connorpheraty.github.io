@@ -7,5 +7,10 @@ img: airbnb-price.png # Add image post (optional)
 tags: [Productivity, Software, Analytics, Airbnb, Machine Learning] # add tag
 ---
 
+Live Website: [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
+
+Github: [Github Org](https://github.com/Airbnb-Price-Navigator) 
+
+
 
 Gain insight into the airbnb market for your nighborhood. 

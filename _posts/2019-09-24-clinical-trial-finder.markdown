@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Clinical Trials, NLP, Search, Health, Wellness] # add tag
 ---
 
-Live Website: [Study Book](https://clinical-trial-finder.netlify.com/)
+Live Website: [Study Book](https://studybookapp.netlify.com/)
 
 Github: [Study Book](https://github.com/build-week-072019-clinical-trial-finder) 
 

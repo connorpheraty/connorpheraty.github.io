@@ -1,0 +1,16 @@
+---
+layout: post
+title: RV Way
+date: 2019-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: rv-nav.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [RV, Recreation, Navigation, Maps, Routing] # add tag
+---
+
+Live Website: [RV Life](https://rvnav.com)
+
+Github: [Study Book](https://github.com/connorpheraty?tab=repositories) 
+
+RV Way is navigation app that assists RV users in navigating impediments such as low clearances and unruly road conditions. As a founding member, I spearheaded the data collection and engineering efforts. 
+

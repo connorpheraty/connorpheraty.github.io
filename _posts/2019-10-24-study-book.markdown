@@ -6,14 +6,14 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: study-book.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Clinical Trials, NLP, Search, Health, Wellness] # add tag
----
-
-Live Website: [Study Book](https://studybookapp.netlify.com/)
-
-Github: [Study Book](https://github.com/build-week-072019-clinical-trial-finder) 
+--- 
 
 The drug development process is in crisis. Returns on R&D have been decreasing for decades and fewer drugs are reaching the market. One contributing factor to this crisis is the lack of information transparency in the clinical trial market (a key part of the drug development process).
 
 An astounding 80% of clinical trials fail to meet recruitment timelines and 1 in 4 cancer research trials falter due to low patient recruitment. Many patients do not even know these trials exist.
 
 We have developed a solution that increases information transparency and helps patients (and family members) evaluate potentially life-saving clinical trials.
+
+Live Website: [Study Book](https://studybookapp.netlify.com/)
+
+Github: [Study Book](https://github.com/build-week-072019-clinical-trial-finder)

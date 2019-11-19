@@ -16,4 +16,4 @@ We have developed a solution that increases information transparency and helps p
 
 Live Website: [Study Book](https://studybookapp.netlify.com/)
 
-Github: [Study Book](https://github.com/build-week-072019-clinical-trial-finder)
+Github: [Study Book](https://github.com/StudyBook-LS)

@@ -14,6 +14,6 @@ An astounding 80% of clinical trials fail to meet recruitment timelines and 1 in
 
 We have developed a solution that increases information transparency and helps patients (and family members) evaluate potentially life-saving clinical trials.
 
-Live Website: [Study Book](https://studybookapp.netlify.com/)
+[Study Book](https://studybookapp.netlify.com/)
 
-Github: [Study Book](https://github.com/StudyBook-LS)
+[Study Book](https://github.com/StudyBook-LS)

@@ -9,6 +9,6 @@ tags: [Productivity, Software, Analytics, Airbnb, Machine Learning] # add tag
 
 Gain insight into the airbnb market for your nighborhood. 
 
-Live Website: [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
+[Airbnb Price Navigator](https://pricenavigator.netlify.com/)
 
-Github: [Github Org](https://github.com/Airbnb-Price-Navigator) 
+[Github Org](https://github.com/Airbnb-Price-Navigator) 

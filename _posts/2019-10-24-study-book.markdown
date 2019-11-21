@@ -16,4 +16,4 @@ We have developed a solution that increases information transparency and helps p
 
 [Study Book](https://studybookapp.netlify.com/)
 
-[Study Book](https://github.com/StudyBook-LS)
+[Github Org](https://github.com/StudyBook-LS)

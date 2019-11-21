@@ -12,4 +12,4 @@ RV Way helps RV users in navigating impediments such as low clearances and unrul
 
 [RV Way](https://rvnav.com)
 
-[Github Repo](https://github.com/connorpheraty?tab=repositories) 
+[Github Org](https://github.com/connorpheraty?tab=repositories) 

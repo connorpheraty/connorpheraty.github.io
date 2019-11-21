@@ -8,8 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [RV, Recreation, Navigation, Maps, Routing] # add tag
 ---
 
-RV Way helps RV users in navigating impediments such as low clearances and unruly road conditions. As a founding member, I spearheaded the data collection and engineering efforts. 
+RV Way helps RV users in navigating impediments such as low clearances and unruly road conditions. As a founding member, I spearheaded the data collection and backend server creation.
 
 [RV Way](https://rvnav.com)
 
-[RV Way](https://github.com/connorpheraty?tab=repositories) 
+[Github Repo](https://github.com/connorpheraty?tab=repositories) 
